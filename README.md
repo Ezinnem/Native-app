@@ -1,6 +1,6 @@
 # Native-app
 
-A basic to-do app developd using React native JavaScript framework.
+A to-do app developd using React native JavaScript framework.
 
 
 
